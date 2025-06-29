@@ -1,1 +1,7 @@
+fastapi
+uvicorn
+langchain
+elasticsearch
+openai
+python-dotenv
 
